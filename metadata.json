@@ -1,0 +1,7 @@
+{
+  "name": "Six Sigma Marketing AI",
+  "description": "An AI marketing agent applying Lean Six Sigma Black Belt principles for copy optimization, VoC analysis, and process improvement.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
